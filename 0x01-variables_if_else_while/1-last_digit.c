@@ -20,7 +20,7 @@ int main(void)
 	}
 	if (n == 0)
 	{
-		printf("%dand is 0", &n);
+		printf("%d and is 0", &n);
 	}
 	if (n < 6 && n != 0)
 	{
