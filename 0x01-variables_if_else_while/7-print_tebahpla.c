@@ -7,7 +7,7 @@
 
 int main(void)
 {
-
+	char ch;
 
 	for (ch = 48; ch <= 57; ch++)
 	{
