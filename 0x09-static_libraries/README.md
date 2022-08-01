@@ -1,3 +1,1 @@
-
-
-static_libraries
+0x09 static libraries
