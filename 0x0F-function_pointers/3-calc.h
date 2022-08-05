@@ -1,6 +1,8 @@
 #ifndef CALC_H
 #define CALC_H
 
+#include <stdlib.h>
+#include <stdio.h>
 /*
  * Desc: Header file containing all structures and
  * prototypes used by the 3-main.c program.
@@ -26,4 +28,4 @@ int op_mul(int a, int b);
 int op_div(int a, int b);
 int op_mod(int a, int b);
 int (*get_op_func(char *s))(int, int);
-#endif
+#endif /*CALC_H*/
